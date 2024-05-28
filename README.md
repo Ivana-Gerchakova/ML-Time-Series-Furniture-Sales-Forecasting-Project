@@ -22,10 +22,6 @@ The challenge is to utilize time series data to accurately forecast furniture sa
 - **RMSE:** Calculating the Root Mean Square Error (RMSE) to measure the accuracy of the forecasting model.
 - **Visualizing:** Visualizing the forecasting results and evaluating the performance of the model.
 
-
 ## Project Preview :
-<img src="Images/SEASONAL DECOMPOSITION (seasonal, trend, residual).png">
-<img src="Images/STATIONARITY TESTING - ADFULLER.png">
-<img src="Images/ACF and PACF .png">
-
-
+<img src="Images/Visualizing Time Series Data.png">
+<img src="Images/Predicted sales to Real sales.png">
